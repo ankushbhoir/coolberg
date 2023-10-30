@@ -1,0 +1,60 @@
+ Ship/Bill To Avenue Supermarts Ltd.                                               PURCHASE ORDER
+ ASL DC Antariksh A-6 Bhiwandi                                                     PO #               5001375434
+ 74,Antariksh Logidrom, A6                                                         PO Date            03.04.2023
+ -Bhiwandi                                                                         Expc.Delv.Dt       04.04.2023         5001375434|1039
+
+ Phone                                                                             Vendor             HONASA CONSUMER LIMITED
+ Fax                                                                                                  E-11, SURVEY NO 81, HISSA NO7
+ Attn         Accounts payable               CIN:L51900MH2000PLC126473                                MUMBAI - 421302
+ Email                                     GSTIN:27AACCA8432H1ZQ                   Phone              9871179495
+ Buyer        FMC                                                                  FAX                000000
+ Email                                                                             Email              meraj.a@mamaearth.in
+ Vendor FSSAI No.                                                                  GSTIN              27AADCH9716L1Z4
+ Validity      To
+
+Sno     EAN No        Article       U   Case    Qty    B.Price   T      P      V       Net   SGST/     CGST/ Cess L.Price  MRP         T.Value
+                    Description     O   Lot               Rs                          Price  UTGST     IGST         Rs     Rs            Rs
+                                    M                                                        %         %
+ 1 8906087779254 MAMAEAR VC SS     EA     24    2400    177.52   0.00   0.00 42.27    135.25 9.00       9.00 0.00  159.60 399.00       383028.00
+                 BL300ML[HSN
+                 Code:33049990]
+                 M08/HRS/45-CRTN
+ 2 8906087779261 MAMAEAR UB SS     EA     24    2400    177.52   0.00   0.00 42.27    135.25   9.00      9.00   0.00   159.60 399.00   383028.00
+                 BL300ML[HSN
+                 Code:33049990]
+                 M08/HRS/45-CRTN
+ 3 8906087773016 MAMAE V C SPF20   EA     80     800    266.50   0.00   0.00   0.00   266.50   9.00      9.00   0.00   314.47 599.00   251576.00
+                 FC50G[HSN
+                 Code:33049910]
+                 M09/HRS/5-CRTN
+ 4 8906087771333 MAMAERT SPF50     EA     60     600    222.01   0.00   0.00   0.00   222.01   9.00      9.00   0.00   261.97 499.00   157183.08
+                 SUNS80G[HSN
+                 Code:33049930]
+                 N06/HRS/30-CRTN
+Total                                           6,200                                                                            1,174,815.08
+
+
+
+Amount in words           RUPEES   ELEVEN LAKH SEVENTY FOUR THOUSAND EIGHT HUNDRED FIFTEEN &          EIGHT PAISE ONLY
+
+
+
+
+                                                                                                                                       Page1/2
+                                                                                           Purchase order : 5001375434
+
+
+
+
+Terms and Conditions:
+- The above rate includes delivery at our godown.
+
+
+
+
+Please Note: For all Sales/ Supply to us a requisite E Way Bill (wherever applicable) should accompany the goods as per the
+provisions of GST law. As a compliance measure, our stores/ depot will not accept goods without e-way bill.
+
+Prepared by :                          Authorized by :                          Accepted by :
+                                                                                                                              Page2/2
+

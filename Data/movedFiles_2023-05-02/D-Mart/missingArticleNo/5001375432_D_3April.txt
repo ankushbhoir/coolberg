@@ -1,0 +1,65 @@
+ Ship/Bill To Avenue Supermarts Ltd.                                              PURCHASE ORDER
+ ASL DC Antariksh A-6 Bhiwandi                                                    PO #               5001375432
+ 74,Antariksh Logidrom, A6                                                        PO Date            03.04.2023
+ -Bhiwandi                                                                        Expc.Delv.Dt       04.04.2023         5001375432|1039
+
+ Phone                                                                            Vendor             HONASA CONSUMER LIMITED
+ Fax                                                                                                 E-11, SURVEY NO 81, HISSA NO7
+ Attn         Accounts payable               CIN:L51900MH2000PLC126473                               MUMBAI - 421302
+ Email                                     GSTIN:27AACCA8432H1ZQ                  Phone              9871179495
+ Buyer        FMC                                                                 FAX                000000
+ Email                                                                            Email              meraj.a@mamaearth.in
+ Vendor FSSAI No.                                                                 GSTIN              27AADCH9716L1Z4
+ Validity      To
+
+Sno     EAN No        Article       U   Case   Qty    B.Price   T      P      V       Net   SGST/     CGST/ Cess L.Price  MRP         T.Value
+                    Description     O   Lot              Rs                          Price  UTGST     IGST         Rs     Rs            Rs
+                                    M                                                       %         %
+ 1 8906087770664 MAMAEAR T NEM     EA    120   2400    115.23   0.00   0.00   0.00   115.23 9.00       9.00 0.00  135.97 259.00       326331.36
+                 FW100ML[HSN
+                 Code:34013090]
+                 N09/HRS/5-CRTN
+ 2 8904417300512 MAMAEART UBTN     EA     40   1800    166.84   0.00   0.00   7.94   158.90   9.00      9.00   0.00   187.50 375.00   337503.60
+                 FW150ML[HSN
+                 Code:34013090]
+                 N06/HRS/24-CRTN
+ 3 8906087772859 MAMAE V C TUR     EA    120   1200    115.23   0.00   0.00   0.00   115.23   9.00      9.00   0.00   135.97 259.00   163165.68
+                 FW100ML[HSN
+                 Code:34013090]
+                 N09/HRS/5-CRTN
+ 4 8906087770657 MAMAEA CHA CO     EA    120   1200    115.23   0.00   0.00   0.00   115.23   9.00      9.00   0.00   135.97 259.00   163165.68
+                 FW100ML[HSN
+                 Code:34013090]
+                 N09/HRS/5-CRTN
+ 5 8906087773115 MAMAE V C TUR     EA     48   1200    177.52   0.00   0.00   0.00   177.52   9.00      9.00   0.00   209.47 399.00   251368.32
+                 FW150ML[HSN
+                 Code:34029091]
+                 N05/HRS/24-CRTN
+Total                                          7,800                                                                            1,241,534.64
+
+
+
+
+                                                                                                                                      Page1/2
+                                                                                               Purchase order : 5001375432
+
+
+
+
+Amount in words           RUPEES   TWELVE LAKH FORTY ONE THOUSAND FIVE HUNDRED THIRTY FOUR &    SIXTY FOUR PAISE ONLY
+
+
+
+
+Terms and Conditions:
+- The above rate includes delivery at our godown.
+
+
+
+
+Please Note: For all Sales/ Supply to us a requisite E Way Bill (wherever applicable) should accompany the goods as per the
+provisions of GST law. As a compliance measure, our stores/ depot will not accept goods without e-way bill.
+
+Prepared by :                          Authorized by :                          Accepted by :
+                                                                                                                              Page2/2
+

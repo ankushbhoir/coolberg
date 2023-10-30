@@ -1,0 +1,417 @@
+RELIANCE RETAIL LIMITED
+FF101,Saffron
+Panchwati 5 Rasta,
+ Near Bank of Baroda Ambawadi,
+Ahmedabad , 380006 GJ , IN
+Telephone :
+
+
+SELLER                                       PURCHASE CHANGE ORDER
+
+ 20001707                                                                     Original Order No.:SK6C/5100705490
+ HONASA CONSUMER PVT LTD                                                      Revision No. : 0001
+
+ E-11 GALA NO.8-14                                                            Date : 28.07.2023
+ DAPODE HARIHAR
+ BHIVANDI THANE                                                               Delv Add :
+ THANE MAHARASHTRA                                                            Wh No 2 Uno Logistics Park
+ Pin Code: 421302 ven_country&                                                Village Kochariya Bavla
+                                                                              Rajkot Highway
+ Attention :
+ Tel.No.   :                                                                  AHMEDABAD, Gujarat - 382220
+ E-Mail.   : DEEPAK.J@MAMAEARTH.IN                                            Tel:/Fax:
+                                                                              Email:asn_ea50_ggn@zmail.ril.com
+
+                                       AMENDED PURCHASE ORDER - DO NOT DUPLICATE
+ This Amendment to the Purchase Order is issued to incorporate the following change(s) to the above noted Purchase Order:
+ 5100705490 dt. 28.07.2023.
+
+
+
+
+______________________________________________________________________________
+ Amendment to the Total Price as a result of this Revision                                     INR        0.00
+ Original/Previous Total Purchase Order Price :                                               INR    54,736.51
+ Revised Total Purchase Order Price :                                                         INR    54,736.51
+
+
+
+  Delivery Date 12.08.2023
+
+______________________________________________________________________________
+ ALL OTHER REQUIREMENTS, TERMS AND CONDITIONS SHALL REMAIN UNCHANGED AS PER
+ THE ORIGINAL PURCHASE ORDER AND ANY PREVIOUS CHANGE ORDER REVISION(S).
+______________________________________________________________________________
+ It is important that SELLER signs and returns the Purchase Change Order Copy within three (3) days of receipt. No other
+ form of Order acceptance will be accepted. Failure to return the copy does not diminish responsibilities as set forth here in
+ but may result in a delay to any payments that may be due.
+______________________________________________________________________________
+                                       FOR
+
+                                                                    This is a computer generated document
+
+
+BUYER : RROPSFNR                                                       Authorised
+______________________________________________________________________________
+ SELLER's Acceptance :
+
+
+ REGISTERED OFFICE : 3rd Floor, Court House Lokmanya Tilak Marg, Dhobi Talao, MUMBAI 400002
+                                                                             AMENDED PURCHASE ORDER                                             Number        5100705490
+                                                                                                                                                Rev : 0001 Dt.28.07.2023
+                                                                                                                                                Page No: 1
+
+______________________________________________________________________________________________________________
+No    Article No.         EAN No                  Material Description                                       Quantity     UOM          MRP            Base Cost             IGST(%)    IGST(INR)   Total Base
+      HSN/SAC Code        Vendor Article No       Delivery Date                                                                                                            CESS(%)    CESS(INR)    Value(INR)
+                          Vendor Item No          Site
+______________________________________________________________________________________________________________
+1     491451926           8906087770671           MAMAEARTH UBTN T&S FW F TN RMVL100MLTUBE                          1       CRT      31080.00         18,437.29               18.00     3,318.71   18,437.29
+      34011911            1005416                 12.08.2023
+                                                  SK6C
+                                                                                                                  120       EA       259.00
+______________________________________________________________________________________________________________
+2     491938238           8906087771814           MAMAEARTH ONION CONDITIONER 250 ml BTL                            2       E01     15705.00           9,316.52               18.00     3,353.95   18,633.05
+      33051090            1005469                 12.08.2023
+                                                  SK6C
+                                                                                                                   90       EA       349.00
+______________________________________________________________________________________________________________
+3     491938239           8906087771807           MAMAEARTH ONION SHAMPOO 250 ml BTL                                1       E01     15705.00           9,316.53               18.00     1,676.98     9,316.53
+      33051090            1005475                 12.08.2023
+                                                  SK6C
+                                                                                                                   45       EA       349.00
+______________________________________________________________________________________________________________
+                              Grand Total =              4
+______________________________________________________________________________________________________________
+                                                                                                                        Total Basic Value               INR                                        46,386.87
+                                                                                                                        Total IGST                      INR                                         8,349.64
+______________________________________________________________________________________________________________
+                                     Revised Total Purchase Order Price:                       INR 54736.51
+                                     Original/Previous Total Purchase Order Price:             INR 54736.51
+                                     Amendment to the Total Price as a result of this Revision INR     0.00
+______________________________________________________________________________________________________________
+Terms of payment :
+Pro-rata payment(s) shall be made within 30 days from the date of receipt of GOODS, or receipt of correct invoice & dispatch documents whichever is later.
+                                                                      AMENDED PURCHASE ORDER                                      Number      5100705490
+                                                                                                                                  Rev : 0001 Dt.28.07.2023
+                                                                                                                                  Page No: 2
+______________________________________________________________________________________________________________
+Note(S):
+
+   It is essential that the seller shall mention Item No.& Item code along with corresponding Material Description and P.O. No. as mentioned above, in the Delivery challan(On-Shore Order) /
+Packing List (Off-shore Order) and invoice for ease of material Inwarding and Bill Processing. It is also essential that the Seller attaches a Tag /Sticker with each item indicating item Code & PO
+No. Failure to do so may be the grounds for the rejection(s) or delay in release of payment(s).
+   The ordered material should be delivered to Qwik Supply Chain Pvt.Ltd at the Distribution Centre given in the PO under Delivery Addresswho are authorized to receive the material on
+ourbehalf.
+   Suppliers need to call the destination DC/Store atleast 24 hrsin advance to schedule the delivery time for goods.Vehicles without prior appointment could be subject to delay.
+
+GSTIN Number Details :-
+-----------------------------
+GSTIN NO         : 24AABCR1718E1ZV
+PAN No.       : AABCR1718E
+  As per recent amendment(s) in the Income-Tax Rules ("Rules") made vide the Income-tax (22nd Amendment) Rules, 2015, effective 1 January 2016. Rule 114B of the Rules as
+substituted, mentions transactions in relation to which Permanent Account Number (PAN) is to be quoted on all documents and includes sale or purchase of goods or services of any
+nature for an amount exceeding two lakh rupees per transaction (Sl. No 18 of the Table in Rule 114B).
+   Rule 114C (2) of the Rules as substituted reads as follows: "Anyperson, being a person raising bills referred to at Sl. No 5 or 6 or18 of rule 114B, who, in relation to a transaction
+specified in the saidSl. No., has issued any document shall ensure after verification that permanent account number has been correctly furnished and the same shallbe mentioned in such
+document, or as the case may be, a declarationin Form 60 has been duly furnished with complete particulars". In case PAN is applied for and / or not available, Form 60 is to be duly
+filled and signed / verified and submitted with identity and address proof (KYC documents) as per the page 3 of form 60.
+  You are therefore requested that your invoice / bill / payment acknowledgement / debit note / credit note, etc. should mention PAN of your entity as well as our PAN.
+
+
+
+
+ DEFINITIONS AND INTERPRETATION
+ 1.1 Definitions:
+ The following terms, unless the context requires otherwise, shall have the following meanings:
+ (a) ACCEPTANCE OF GOODS means (i) if acceptance criteria are set forth in this CONTRACT, the BUYER#S preliminary determination that the GOODS satisfy all such acceptance criteria,
+including commissioning and performance tests, if applicable; or (ii) if no such criteria are provided, the BUYER#S preliminary determination that the GOODS comply with all requirements set
+forth in this CONTRACT. ACCEPTANCE OF GOODS shall be evidenced by the issuance of an acceptance certificate by the BUYER.
+ (b) AFFILIATE means, with respect to any PERSON, any other PERSON, directly or indirectly controlling, controlled by or under direct, indirect or common control with, such PERSON. For
+the purposes of this definition, #control# means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such PERSON, whether
+through the ownership of voting securities, by agreement with respect to the voting of securities, by other agreement conferring control over management or policy decisions, by virtue of the
+power to control the composition of the board of directors or managers, or otherwise. The terms #controlling# and #controlled# shall have correlative meanings.
+ (c) BUYER means Reliance Retail Limited and shall include its successors and assigns. Terms such as #Reliance Retail Limited#,Purchaser','Owner', or 'Customer',as may be used in any
+CONTRACT DOCUMENTS shall be construed to mean BUYER.
+ (d) CHANGE is defined in Section 19.1.
+ (e) CHANGE NOTICE is defined in Section 19.1.
+                                                                     AMENDED PURCHASE ORDER                                      Number      5100705490
+                                                                                                                                 Rev : 0001 Dt.28.07.2023
+                                                                                                                                 Page No: 3
+
+
+ (f) CONFIDENTIAL INFORMATION is defined in Section 12.
+ (g) CONTRACT means the totality of the agreement between the BUYER and the SELLER as expressed in the CONTRACT DOCUMENTS.
+ (h) CONTRACT DOCUMENTS means the following and in the event of any conflicting provisions within the CONTRACT DOCUMENTS, the order of precedence of the documents shall be
+as provided below:
+ PURCHASE ORDER, including any amendments thereto;
+ SPECIAL CONDITIONS and annexures thereto;
+ GCP; and
+ any other document (A) referred to in any of the documents referred to in clauses (i) through (iii) above, or (B) agreed by the PARTIES to constitute a part of the CONTRACT DOCUMENTS
+and incorporated herein by specific reference.
+ (i) DEFECT means any defect, deficiency, error, failure, flaw, omission, damage, fault, inadequacy or discrepancy in the workmanship or in the materials used in the fabrication and manufacture
+of GOODS or any part or component thereof and the word #DEFECTIVE# shall be construed accordingly.
+ (j) DELIVERY POINT is defined or described in the SPECIAL CONDITIONS.
+ (k) DELIVERY SCHEDULE is defined or described in the SPECIAL CONDITIONS.
+ (l) DELIVERY TERMS means the terms for the delivery of the GOODS, including the DELIVERY SCHEDULE, DELIVERY POINTS and locations and shipping terms, as set out in this
+CONTRACT. Except as otherwise specified in this CONTRACT, terms for the delivery of the GOODS shall incorporate the INCOTERMS.
+ (m)DISPUTE is defined in Section 18.
+ (n) DRAWINGS and DOCUMENTS mean the design calculations, drawings, analysis patterns, specifications, construction and fabrication drawings and documents, certificates, test results,
+installation, operating and maintenance manuals and any other documentation or materials prepared or provided by the SELLER under this CONTRACT (whether recorded in physical form or on
+electronic storage media).
+ (o) GOODS means each item to be provided to the BUYER by the SELLER, or by a SUB-SELLER on behalf of the SELLER, including raw materials, processed materials, equipment,
+components, fabricated goods, finished products, spares, DRAWINGS and DOCUMENTS, data, related firmware or software and any other documentation described in this CONTRACT.
+ (p) GOODS WARRANTY and GOODS WARRANTIES are defined in Section 9.
+ (q) GOODS WARRANTY PERIOD is defined or described in the SPECIAL CONDITIONS. (r) GENERAL CONDITIONS OF PURCHASE or GCP means this General Conditions of
+Purchase.
+ (s) INCOTERMS means the most recent International Commercial Terms published by the International Chamber of Commerce, Paris, which are in effect as on the date of the PURCHASE
+ORDER.
+ (t) INVOICE PAYMENT DETAILS is defined in Section 5.
+ (u) MAKE GOOD means to repair, correct, re-perform, replace, re-install or re-erect, as appropriate, any part, section, component or functionality of the GOODS, including all testing and
+re-testing related thereto, such that the GOODS fully comply and conform to the requirements of this CONTRACT.
+ (v) MALICIOUS CODE means any (i) computer virus, worm, bot or trojan or (ii) spyware, malware, malicious, destructive or corrupting code, program, or macro, or any other code, program or
+macro that is hostile or damaging to information systems or components thereof.
+ (w)PARTY means either the BUYER or the SELLER, as the context requires, and the PARTIES mean both the BUYER and the SELLER.
+ (x) PERFORMANCE SECURITY is defined in the SPECIAL CONDITIONS.
+ (y) PERSON means any individual, firm, corporation, limited liability company, voluntary association, partnership, joint venture, trust, limited organization, society, unincorporated organization,
+governmental authority or other legal entity or organization.
+                                                                     AMENDED PURCHASE ORDER                                      Number      5100705490
+                                                                                                                                 Rev : 0001 Dt.28.07.2023
+                                                                                                                                 Page No: 4
+
+ (z) PURCHASE ORDER means the document entitled #Purchase Order# to which the documents referenced in Section 1.1 (h) (ii) to (iv) are attached.
+ (aa) SCOPE OF SUPPLY means all of the requirements of the BUYER with respect to the supply of the GOODS by the SELLER as set forth in the CONTRACT DOCUMENTS.
+ (bb) SELLER means the PERSON with whom the BUYER has entered into this CONTRACT for purchase of the GOODS, as identified on the face of the PURCHASE ORDER, and shall
+include such PERSON#S successors and permitted assigns. Terms such as #Vendor#, #Supplier# or #Contractor# as may be used in any CONTRACT DOCUMENTS shall be construed to mean
+SELLER.
+ (cc) SITE means the BUYER#S premises at which the GOODS are to be stored, located or used as determined by the BUYER.
+ (dd) SPECIAL CONDITIONS means the document entitled #SPECIAL CONDITIONS# and attached to the PURCHASE ORDER.
+ (ee) SPECIFICATIONS means the description of the GOODS to be supplied under this CONTRACT, including, where appropriate, all specifications, requirements, technical standards, quality
+standards, performance standards, compatibility, interoperability, instructions, DRAWINGS and DOCUMENTS and other related criteria.
+ (ff) SUB-ORDER means an agreement entered into between the SELLER and a SUB-SELLER for the supply of raw materials, components, equipment, services or such other items as may be
+required by the SELLER to enable the fulfilment of the SELLER#S obligations under this CONTRACT.
+ (gg) SUB-SELLER means any third party from whom the SELLER sources raw materials, components, equipment, services or such other items as may be required by the SELLER to enable the
+fulfilment of the SELLER#S obligations under this CONTRACT.
+ (hh) SUPPORTING DOCUMENTS is defined in Section 5.
+ (ii) TAX or TAXES means all taxes, levies, cess, duties, fees, charges and other assessments imposed or assessed on or payable by the SELLER in any jurisdiction in relation to this CONTRACT
+or the SELLER#S performance of this CONTRACT.
+ (jj) TOTAL BASIC VALUE means the amount identified as the #Total Basic Value# set forth on the face of the PURCHASE ORDER, as the PURCHASE ORDER may be amended from time
+to time.
+  (kk) TOTAL ORDER VALUE means the amount identified as the #Total Order Value# set forth on the face of the PURCHASE ORDER, as the PURCHASE ORDER may be amended from
+time to time.
+  1.2 In this CONTRACT:
+  The singular shall include plural and vice versa, and words denoting natural persons shall also apply to partnerships, firms, companies, corporations, joint ventures, trusts, associations,
+organizations and other entities. All references to Sections, sub-sections, clauses, paragraphs and annexures are to Sections, sub-sections, clauses, paragraphs and annexures in or to this GCP
+unless otherwise specified. Reference to any statute shall include reference to applicable rules, regulations, ordinance, notification, orders or any other instrument having force of law prescribed,
+issued or passed under such statute with amendments thereto and replacements thereof. Unless otherwise required by the context in which any term appears, capitalized terms used in the
+CONTRACT DOCUMENTS shall have the meanings specified in this GCP, or if not defined in this GCP, as defined elsewhere in the CONTRACT DOCUMENTS. For the purposes of this
+CONTRACT, the words and abbreviations that have well-known technical or trade meanings used but not defined in this GCP or elsewhere in this CONTRACT, shall be construed in accordance
+with such recognized technical or trade meanings. The words #include# and #including# are to be construed without limitation. Whenever the context may require, any pronoun shall include the
+corresponding masculine, feminine and neuter forms. The term #or# is not exclusive. The word #extent# in the phrase #to the extent# shall mean the degree to which a subject or other thing
+extends, and such phrase shall not mean simply #if.# The words #herein,# #hereof# and #hereunder# and words of similar import when used shall refer to this CONTRACT as a whole and not to
+any particular Section or sub-section of this CONTRACT.
+ SUPPLY OF GOODS
+ The SELLER shall complete the delivery of the GOODS in accordance with the DELIVERY TERMS. All the obligations of the SELLER to be performed on the dates as specified in this
+CONTRACT, including the delivery of the GOODS in accordance with the DELIVERY SCHEDULE are essential conditions of this CONTRACT. The SELLER shall at all times comply with
+all applicable laws in the SELLER#S performance of this CONTRACT. The SELLER shall obtain or procure any and all licences, permits, consents and approvals which may be required by any
+governmental authority to enable the supply of the GOODS in accordance with this CONTRACT.
+ PRICE
+ Unless otherwise expressly stated in this CONTRACT, the prices and rates set forth in this CONTRACT for the GOODS are not subject to any escalation on any account, including due to any
+increase in the cost of production, raw materials, labour, TAXES, any fluctuations in exchange rates, changes in applicable law or any other reason. Unless otherwise specified in the SPECIAL
+                                                                      AMENDED PURCHASE ORDER                                       Number      5100705490
+                                                                                                                                   Rev : 0001 Dt.28.07.2023
+                                                                                                                                   Page No: 5
+
+CONDITIONS, all prices and rates set forth in the PURCHASE ORDER includes all packing costs, crating, handling charges or any other charges, and may, in accordance with the DELIVERY
+TERMS, include the costs of carriage/shipping of the GOODS and costs of insurance covering the GOODS. The SELLER shall ensure that the packing of the GOODS is as per the best
+standards in the industry for packing similar type of material, including that such packing is transport worthy. Neither the SELLER nor any other PERSON shall be entitled to any payments
+whatsoever towards any license fees, royalties, levies or the like for use of any intellectual property embodied or utilized in or for the use, operation, manufacture, fabrication, assembly or supply
+of the GOODS.
+ TAXES & DUTIES
+ The prices and rates specified in this CONTRACT include (i) all TAXES, and (ii) all withholding taxes or taxes deducted at source, as applicable, in India; with the exception of any taxes
+payable by the BUYER in India as specified in the SPECIAL CONDITIONS. The BUYER shall provide to the SELLER the certificates for the withholding taxes or taxes deducted at source, as
+applicable, in India deducted by the BUYER. Notwithstanding anything to the contrary in this CONTRACT, the SELLER shall be responsible for and shall bear and pay all TAXES imposed on
+the SELLER#S income, earnings or profits and the SELLER shall bear all withholding taxes or taxes deducted at source, as applicable, in India related to payments made by the BUYER to the
+SELLER. The BUYER shall deduct applicable withholding taxes or taxes deducted at source, as applicable, in India from payments due to the SELLER and deposit such withholding taxes or
+taxes deducted at source, as applicable, with the tax authority in India and pay the SELLER the net amount after deducting the applicable withholding taxes or taxes deducted at source.
+ INVOICING
+ The SELLER shall be entitled to raise invoices in accordance with the payment terms and invoicing instructions set forth in this CONTRACT. The SELLER shall provide the BUYER at the
+address specified in the SPECIAL CONDITIONS with correct invoices in triplicate along with all supporting documents required by the BUYER, including payment certification documents,
+shipping documents required for clearance of the GOODS, documentation required at the ports located in the country of the DELIVERY POINT and any other documents referred to in this
+CONTRACT or requested in writing by the BUYER (collectively #SUPPORTING DOCUMENTS#). Each invoice shall in all cases include all details requested by the BUYER, including the
+PURCHASE ORDER number, details for making payment, including the name of the SELLER#S bank, account number, RTGS / NEFT code (as applicable), and SWIFT codes (collectively,
+#INVOICE PAYMENT DETAILS#). Payment of any invoice shall only be made after BUYER#S receipt of correct invoice containing all INVOICE PAYMENT DETAILS and accompanied by
+all SUPPORTING DOCUMENTS.
+ PAYMENT
+ Unless otherwise expressly stated in the SPECIAL CONDITIONS, the BUYER shall make payment for GOODS within thirty ( 30 ) days after the BUYER#S receipt of a correct invoice covering
+such GOODS containing all INVOICE PAYMENT DETAILS and accompanied by all SUPPORTING DOCUMENTS. Payments of any invoice or other amounts to the SELLER shall not
+constitute ACCEPTANCE OF GOODS. To the extent that an invoice (i) does not include SUPPORTING DOCUMENTS or INVOICE PAYMENT DETAILS; or (ii) is otherwise incorrect or
+deficient, then the time period for payment of such portion of the corresponding invoice shall be suspended until thirty (30) days or such other period as agreed by the PARTIES after the date of
+receipt of the SUPPORTING DOCUMENTS or INVOICE PAYMENT DETAILS, or receipt of a correct invoice, as the case may be. Neither ACCEPTANCE OF GOODS nor payment for the
+GOODS shall mean that the GOODS comply with the requirements of this CONTRACT.
+ TITLE TO THE GOODS
+  Except as otherwise provided in this CONTRACT, title to and ownership of the GOODS shall transfer to the BUYER and the GOODS shall become the property of the BUYER upon the first to
+occur of the following events: (a) when BUYER pays for the GOODS or part thereof; or (b) when such GOODS or part thereof are delivered to the BUYER or to an agent or freight forwarder
+nominated by the BUYER. Upon transfer of title to the GOODS, the BUYER shall have absolute ownership and good, marketable and clear title to all such GOODS, free and clear of any and all
+liens, charges, security interests or any other encumbrances. The SELLER shall, at its sole risk and cost, either self-insure or purchase insurance for the GOODS against the risk of loss of or
+damage to the GOODS for the full replacement value of the GOODS until delivery thereof to the BUYER in accordance with the terms of this CONTRACT.
+ QUALITY
+ The SELLER shall supply the GOODS in accordance with the requirements of this CONTRACT, including with respect to the description, SPECIFICATIONS, and quality and standards as
+specified in this CONTRACT. Unless otherwise specified in this CONTRACT, the SELLER shall, at SELLER#S cost, examine, test, and inspect the GOODS.
+ GOODS WARRANTIES
+ 1.1 The SELLER warrants that all GOODS shall: (a) be free from DEFECTS; (b) be new and unused, fit for the purposes intended; (c) comply with the requirements of this CONTRACT and
+applicable laws; (d) be provided with and accompanied by all DRAWINGS and DOCUMENTS as specified in this CONTRACT and all other information, necessary for the operation,
+maintenance, repair, storage and safe use of the GOODS; and (e) with respect to any firmware or software embedded or accompanying the GOODS, be free from and shall not contain any
+MALICIOUS CODE. The foregoing warranties are collectively referred to as #GOODS WARRANTIES# and individually as a #GOODS WARRANTY#.
+ 1.2 Without prejudice to any other obligations and liabilities of the SELLER, if the BUYER notifies the SELLER of any breach of any of the GOODS WARRANTIES, then SELLER shall, at its
+sole cost and expense, immediately following notification, but in any event within seven (7) days of such notification, take all actions and measures, to MAKE GOOD the breach without
+reducing the functionality of the GOODS or affecting the performance guarantees, if any, given by the SELLER with respect to the GOODS. The SELLER shall be liable for all costs and
+                                                                       AMENDED PURCHASE ORDER                                       Number      5100705490
+                                                                                                                                    Rev : 0001 Dt.28.07.2023
+                                                                                                                                    Page No: 6
+
+expenses relating to all MAKE GOOD activities and SELLER#S obligations under any of the GOODS WARRANTIES, including inspection, removal, warehousing, return, re-installation and all
+taxes, duties and levies. The SELLER#S MAKE GOOD obligations shall be applicable for one or more breaches of the GOODS WARRANTIES that existed prior to the expiration of the
+WARRANTY PERIOD and such one or more breaches were notified to the SELLER either during the WARRANTY PERIOD or within six (6) months after the expiration of the WARRANTY
+PERIOD.
+ PERFORMANCE SECURITY
+ The BUYER shall be entitled to make a claim and be permitted to draw the amount of such claim under the PERFORMANCE SECURITY, inter alia, in the event of SELLER#S failure of due
+and proper performance and observance of the stipulations, terms and conditions of this CONTRACT, including the occurrence of any event of default as set forth in Section 16.
+ INTELLECTUAL PROPERTY RIGHTS
+ The SELLER further represents and warrants and covenants that the GOODS, DRAWINGS and DOCUMENTS and the BUYER#S proposed use (as contemplated by this CONTRACT) of the
+GOODS and all other property provided by the SELLER under this CONTRACT, do not and will not infringe or misappropriate the intellectual property rights of any third party. The SELLER
+hereby grants to the BUYER a perpetual, irrevocable, non-exclusive, royalty-free, fully paid-up right and license, with the right to use, copy, modify and prepare derivative works of the
+SELLER#S intellectual property incorporated in the GOODS or the DRAWINGS and DOCUMENTS.
+ CONFIDENTIALITY
+ Save as expressly permitted by this Section, any confidential information of the BUYER (the #CONFIDENTIAL INFORMATION#) disclosed to the SELLER shall not, without the prior written
+consent of the BUYER, be disclosed, used, copied, modified or otherwise transferred by the SELLER to any third party, other than to the SELLER#S AFFILIATES and the SELLER#S and the
+SELLER#S AFFILIATES# respective directors, officers and employees (i) who have a need to know in connection with the supply and/or usage of the GOODS under this CONTRACT, and (ii)
+who are bound by a written obligation of confidentiality to the SELLER no less restrictive than the provisions of this CONTRACT; in each case only to the extent necessary for the purpose of
+performing its obligations under this CONTRACT and for no other purpose. The SELLER agrees to protect the CONFIDENTIAL INFORMATION with the same degree of care that it uses to
+protect its own confidential information, but in all events will use at least a reasonable degree of care. Upon notice by the BUYER, the SELLER shall promptly return or destroy the
+CONFIDENTIAL INFORMATION as directed by the BUYER and provide a written confirmation thereof to the BUYER.
+ ETHICAL CONDUCT
+ In addition to the other representations and warranties contained in this CONTRACT, the SELLER further represents, warrants and covenants that: (a) neither the SELLER nor any of its
+AFFILIATES and to the best of its knowledge, none of its SUB-SELLERS, nor any of its or its AFFILIATES# or SUB-SELLERS# respective employees, officers, directors or representatives,
+has made, offered to make or agreed to make any loan, gift, donation, commission, kick-back, bribe or other payment or facility, directly or indirectly, whether in cash or in kind, to or for (i) any
+official, employee or representative of any governmental authority, (ii) any employee, officer, director or representative of the BUYER or its AFFILIATES, or (iii) any third party, by whatsoever
+name called, related to the negotiation or execution of this CONTRACT or in connection with the performance of this CONTRACT; (b) the SELLER will not, and it will cause its AFFILIATES
+and SUB-SELLERS, and its and their respective employees, officers, directors or representatives to not, make, offer to make or agree to make any loan, gift, donation, commission, kick-back,
+bribe or other payment or facility, directly or indirectly, whether in cash or in kind, to or for (i) any official, employee or representative of any governmental authority, (ii) any employee, officer,
+director or representative of the BUYER or its AFFILIATES, or (iii) any third party related to the negotiation or execution of this CONTRACT or in connection with the performance of this
+CONTRACT; and (c) if the SELLER learns of or has reason to know of any such payment, offer or agreement described in Section 13 (a) or (b) above, to make any such loan, gift, donation,
+commission, kick-back, bribe or other payment or facility to any of the persons described in Section 13 (a) or (b) above, it will immediately inform the BUYER in writing communicating to the
+BUYER all relevant information in respect of the above within the knowledge or possession of the SELLER. Without prejudice to the SELLER#S obligations as above, the SELLER agrees not
+to, and to cause its AFFILIATES and SUB-SELLERS not to, offer or give, or agree to give, to any employee, officer, director or representative of the BUYER any consideration of any kind as an
+inducement or reward for doing, refraining from doing, or for having done or refrained from doing, any act in relation to the obtaining or performance of this CONTRACT, or for showing or
+refraining from showing favour or disfavour to any third party in relation to this CONTRACT.
+ INDEMNIFICATION
+ 1.3 The SELLER shall defend, indemnify and hold harmless the BUYER from and against (a) any and all claims brought against the BUYER; and (b) any and all losses incurred or suffered by
+the BUYER, in each case for or relating to or arising out of sickness, injury to or death of any person, or damage to or destruction of property owned or leased by any person or entity, to the
+extent caused by the gross negligence or wilful misconduct of the SELLER or any SUB-SELLER.
+ 1.4 The SELLER shall defend, indemnify and hold harmless the BUYER from and against (i) any and all claims brought against the BUYER; and (ii) any and all losses incurred or suffered by
+the BUYER, in each case for or relating to: (a) violation of any applicable laws by the SELLER or a SUB-SELLER, including any penalty, interest, tax or other charge that may be levied or
+assessed as a result of any delay or failure of the SELLER or SUB-SELLER to pay any TAXES payable by the SELLER or SUB-SELLER or file any return or information required to be filed by
+the SELLER or the SUB-SELLER under any applicable laws; and (b) failure of the SELLER to pay any PERSONS, including the SUB-SELLERS, furnishing labour, equipment, materials,
+software or intellectual property used by the SELLER in performing the SELLER#S obligations under this CONTRACT.
+ SUSPENSION AND TERMINATION FOR CONVENIENCE
+ 1.5 Notwithstanding anything contained to the contrary in any other provisions of this CONTRACT, the BUYER may at any time upon prior written notice to the SELLER, terminate all or any
+part of this CONTRACT for convenience or suspend all or any part of this CONTRACT for such period of time as the BUYER may determine.
+ 1.6 In the event BUYER terminates the whole or part of this CONTRACT, the SELLER shall, as and by way of full compensation for such termination, only be entitled to reasonable and
+                                                                     AMENDED PURCHASE ORDER                                     Number      5100705490
+                                                                                                                                Rev : 0001 Dt.28.07.2023
+                                                                                                                                Page No: 7
+
+necessarily incurred termination costs that are appropriately substantiated by the SELLER; provided, however, that the SELLER shall take all reasonable actions to mitigate any cost, loss or
+damage which the SELLER may incur as a result of such termination.
+  TERMINATION FOR CAUSE
+  The BUYER may, without prejudice to any other rights or remedies of the BUYER in this CONTRACT or at law or in equity, terminate this CONTRACT by a written notice of termination and
+without any penalty to, or payment obligation of, the BUYER (other than undisputed payment obligations outstanding as of the date of any such termination, with disputed payment obligations
+being subject to the dispute resolution provisions of Section 18) due to the occurrence of any of the following events: (a) the SELLER commences or is subject to any proceeding for relief from
+its creditors or bankruptcy ; or (b) the SELLER commits any misrepresentation, fraud or wilful misconduct or breaches the provisions of Sections 7, 8, 9, 12 or 13, or any other material
+stipulation, term, or condition of this CONTRACT.
+ LIMITATION AND EXCLUSION OF LIABILITY
+ 1.7 Subject to Section 17.2, the aggregate liability of a PARTY in respect of any and all claims or liabilities arising out of or in connection with any breach of this CONTRACT shall not, in the
+aggregate, exceed the TOTAL BASIC VALUE. The foregoing limitation of liability shall not apply to: (i) SELLER#S breach of Sections 11 and 13; (ii) all of the SELLER#S internal costs and
+expenses and TAXES in connection SELLER#S obligations under any of the GOODS WARRANTIES; (iii) any breach by the SELLER of applicable laws; and (iv) SELLER#S gross negligence,
+wilful misconduct, fraud or wilful misrepresentation.
+ 1.8 Neither PARTY shall be liable to the other PARTY for any indirect, remote, special, exemplary or punitive damages or consequential damages of such other PARTY, such as loss of business
+opportunity, goodwill or loss of profits, provided however, the foregoing limitation and exclusion shall not apply to liabilities arising from the SELLER#S breach of Sections 11 and 13, or for
+SELLER#S, gross negligence, wilful misconduct, fraud or wilful misrepresentation.
+ GOVERNING LAW, JURISDICTION AND DISPUTE RESOLUTION
+ This CONTRACT shall be governed by and construed in accordance with the laws of the Republic of India excluding its conflicts-of-laws provisions which would refer construction hereof to the
+laws of another jurisdiction. Any PARTY claiming that one or more questions, claims or differences of opinion (each a #DISPUTE#) has arisen which is attributable to the construction,
+interpretation or performance or breach of the terms and conditions of this CONTRACT, then the PARTIES shall first make good faith efforts to amicably resolve the DISPUTE. If despite good
+faith efforts the PARTIES cannot amicably resolve the DISPUTE, then either PARTY shall have a right to refer such DISPUTE to arbitration by a sole arbitrator to be appointed in accordance
+with the provisions of the Arbitration and Conciliation Act, 1996. The arbitration proceedings shall be held in Ahmedabad, Gujarat, India, shall be conducted in the English language and in
+accordance with the provisions of the Arbitration and Conciliation Act, 1996. The decision of the arbitrator on any DISPUTE shall constitute an award and shall be final and binding on the
+PARTIES.
+  MISCELLANEOUS
+  1.9 The SELLER represents and warrants to the BUYER that (i) this CONTRACT has been duly authorized, executed and delivered by the SELLER and constitutes the legal, valid and binding
+obligation of the SELLER, enforceable against the SELLER in accordance with its terms; (ii) the GOODS comply with the requirements of this CONTRACT and applicable laws; and (iii) the
+SELLER will deliver to the BUYER good and marketable title to GOODS, and upon delivery, all GOODS shall be free and clear of any and all liens, claims, security interests, encumbrances and
+rights of third parties.
+ 1.10 The BUYER may, at any time, by written notice to the SELLER signed by the BUYER#S authorised representative (#CHANGE NOTICE#) direct changes to this CONTRACT
+(#CHANGE#), including changes in any one or more of the following: (1) the DRAWINGS and DOCUMENTS, SPECIFICATIONS or SCOPE OF SUPPLY; (2) any additions to or deletions
+from quantities ordered; and (3) the DELIVERY TERMS. Upon receipt of the CHANGE NOTICE, if no equitable adjustment is required, then the SELLER shall diligently implement and
+perform the CHANGE such that it shall meet all the performance obligations, including delivery of GOODS as agreed in this CONTRACT. However, if the SELLER believes that it is entitled to
+an equitable adjustment then the SELLER shall assert its claim for an adjustment for any CHANGE under this Section 19.1 within ten (10) days from the date of the SELLER#S receipt of the
+CHANGE NOTICE, accompanied by all documents (including technical documents and calculations) supporting or evidencing its claim. The SELLER shall not suspend or delay performance of
+this CONTRACT during the review, negotiation and settlement of any CHANGE. In the event of a DISPUTE in relation to the validity or interpretation of a CHANGE NOTICE or if the BUYER
+and the SELLER cannot agree on the terms of the CHANGE, then the BUYER shall have the right to direct the SELLER to implement such CHANGE and the SELLER shall be bound to
+implement such CHANGE notwithstanding such DISPUTE. The SELLER shall keep auditable records relating to the implementation of such CHANGE. Any such DISPUTE shall be subject to
+resolution in accordance with Section 18.
+ 1.11 At the sole option and written direction of the BUYER, the SELLER
+ shall store the GOODS up to sixty (60) days beyond the delivery dates stipulated in this CONTRACT, at no cost to the BUYER. The SELLER shall continue to maintain the insurance on the
+GOODS in accordance with Section 7 for the period of such storage. For storage after sixty (60) days, the SELLER shall be entitled to reimbursement of all direct out of pocket expenses and
+insurance costs incurred for storage of the GOODS beyond the initial sixty (60) days subject to production of evidence of such payment.
+ 1.12 The BUYER may, at the BUYER#S option, offset any amounts due to the BUYER from the SELLER under this CONTRACT or any other purchase order or contract between the BUYER
+and the SELLER against any amounts due or to become due to the SELLER from the BUYER under this CONTRACT.
+ 1.13 Neither PARTY may assign, transfer or delegate all or any portion of its rights or obligations under this CONTRACT in any manner, without the prior written consent of the other PARTY,
+                                                                          AMENDED PURCHASE ORDER                                  Number      5100705490
+                                                                                                                                  Rev : 0001 Dt.28.07.2023
+                                                                                                                                  Page No: 8
+
+except that this CONTRACT may be assigned or transferred in whole (both as to the benefits and/or the obligations contained therein) or in part by the BUYER to any AFFILIATE of the
+BUYER and/or to any leasing or financial institution without the consent or approval of the SELLER. Subject to the provision of this Section 19.4, this CONTRACT shall inure to the benefit of
+and be binding upon the successors and assigns of the PARTIES.
+ 1.14 The performance by the SELLER of its duties and obligations under this CONTRACT is that of an independent contractor and nothing contained in this CONTRACT creates or implies an
+agency relationship or constitutes a joint venture or partnership between the BUYER and the SELLER. The SELLER shall have no right or authority to make commitments or enter into contracts
+on behalf of, bind, or otherwise obligate the BUYER in any manner whatsoever.
+ 1.15 No change, amendment, waiver or modification of this CONTRACT shall be valid or binding upon the PARTIES unless such change, amendment, waiver or modification shall be in
+writing and duly executed by the authorized representatives of both PARTIES. In case any one or more of the provisions contained in this CONTRACT shall, for any reason, be held to be
+invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect the other provisions of this CONTRACT, and this CONTRACT shall be construed as if
+such invalid, illegal or unenforceable provision had never been contained herein.
+ 1.16 The obligations under this CONTRACT which by implication or by express stipulation of the PARTIES survive the termination or expiry of this CONTRACT shall be performed by the
+PARTIES even after the termination or expiration of this CONTRACT. In addition to and without limiting the generality of the foregoing, Sections 4, 7, 9, 10, 11, 12, 14, 17, 18 and 19 shall
+survive any termination or expiration of this CONTRACT or any portion thereof.
+ 1.17 Nothing contained in this CONTRACT shall have an effect of limiting either PARTY#S remedies that are otherwise available to a PARTY in law or equity against the other PARTY.
+Neither this CONTRACT nor any provision thereof will be construed in favour of or against a PARTY due to that PARTY#S drafting of this CONTRACT or any provision thereof. No course of
+dealing or course of performance under any other contract between the PARTIES shall be considered in the interpretation or enforcement of this CONTRACT.
+ 1.18 This CONTRACT embodies the entire agreement between the BUYER and the SELLER with respect to the subject matter of this CONTRACT and supersedes all prior agreements,
+understandings, commitments, promises, representations, negotiations, discussions and correspondence, whether oral or written, between the PARTIES with respect to the subject matter hereof,
+including any other conditions proposed by the SELLER on the SELLER#S invoices, standard forms and correspondence with the BUYER. Nothing contained in any invoice or other document
+signifying the agreement, acknowledgement or confirmation, or conditional acceptance of this CONTRACT by the SELLER or communication thereof shall have any effect of amendment or
+variation to this CONTRACT unless such amendment or variation is specifically accepted by the BUYER in writing and included in this CONTRACT.
+  FORCE MAJEURE
+  For the purposes of this contract, an event of "force majeure" shall mean any strikes, work stoppages or other labor difficulties, fires, floods or other acts of God; acts of government or any
+subdivision or agency thereof; which are beyond the control of the party claiming the occurrence of a force majeure event and which delays, interrupts or prevents such party from performing its
+obligations under this contract.Notwithstanding any provision hereof to the contrary, the reduction, depletion, shortage, curtailment or cessation of Seller's supplies or reserves or any other
+supplies or materials of Seller shall not be regarded as an event of force majeure. The party affected by a force majeure event shall give notice thereof to the other party within (10)days following
+the occurence thereof and shall apprise the other party of the probable extent to which the affected party will be unable to perform or will be delayed in performing its obligations hereunder. The
+affected party shall exercise due diligence to eliminate or remedy the force majeure cause and shall give the other party prompt notice when that has been accomplished. Notwithstanding the
+foregoing within (5) days following Seller's declaration of a force majeure event which prevents its full and/or timely delivery of the goods hereunder, Buyer may at its option and without
+liability (1) require Seller to apportion among its customers the good available for delivery during the force majeure period; (2) cancel any or all delayed or reduced deliveries; or (3) cancel any
+outstanding deliveries hereunder and terminate this contract. After cessation of a force majeure event declared by Seller, Seller shall, at Buyer's option but not otherwise, be obligated to deliver
+goods not delivered during the force majeure period. After cessation of a force majeure event declared by the Buyer, neither party shall be obligated to deliver or purchase goods not so delivered
+and purchased during the force majeure period.
+  *****
+
+                                                       ANNEXURE FOR SITE DETAILS
+______________________________________________________________________________________________________________
+Site Site Name                Address                                                            Site GSTIN No.
+______________________________________________________________________________________________________________
+SK6C   RRL VF GJ AHM Bavla Grocery DC                 Reliance Retail Limited Wh No 2 Uno Logistics Park                                                                       24AABCR1718E1ZV
+                                                      Village Kochariya Bavla Rajkot Highway
+                                                      AHMEDABAD GJ - 382220
+

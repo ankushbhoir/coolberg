@@ -1,0 +1,107 @@
+<?php
+require_once "lib/db/DBConn.php";
+//Trent
+class cls_15_1_buParser{
+    public function __construct() {
+        
+    }
+    
+    public function process($file_text){
+        $text = file_get_contents($file_text);        
+        $db = new DBConn();
+        $lines = explode("\n", $text);
+        $numlines = count($lines);        
+        print "<br>CNT: $numlines";
+        $chain_name = "NotFound";
+        $start_line_no = 0;
+        $end_line_no = 0;
+        for ($lineno = 0; $lineno < $numlines; $lineno++) {
+            $line = $lines[$lineno];
+            
+            if(trim($line)==""){ continue; }
+            print "<br> Line $lineno: $line";
+//            $regex1 = "(Shipping\s+Address).*";
+//            $regex2 = "(Article).*";
+//            print "<br> Regex1: $regex1 <br>";
+//            print "<br> Regex2: $regex2 <br>";
+//            
+            //if(preg_match('/(Shipping\s+Address).*/',$line,$matches)){
+            if(preg_match('/(Shipping\s+Address).*/',$line,$matches)||preg_match('/(Consignee\s*Detail).*/',$line,$matches)){
+                print "<br> IN D IF: <br>";
+                $start_line_no = $lineno + 1;
+                print "<br> START LINE NO: $start_line_no <br>";
+            }
+            
+            if(preg_match('/(Article).*/',$line,$matches)){
+                $end_line_no = $lineno - 2;
+            }
+            if($end_line_no > 0){
+              break;   
+            }
+        }
+        $cnt=0;
+        print "<br> START LINE NO: $start_line_no <br>";
+        print "<br> END LINE NO: $end_line_no <br>";
+//        $regex="/^(?<addr>.{0,44})/";
+          $regex="/^(?<addr>.{0,36})/";
+        $shipping_address = "";
+        for($i=$start_line_no;$i <= $end_line_no;$i++){
+            $cnt++;
+//            if($cnt==2){
+//                continue;
+//            }
+           $line = $lines[$i]; 
+           if(preg_match('/(Shipping\s+Address).*/',$line,$matches)){
+                 $line = trim(str_replace("Shipping Address ","",$line)); 
+           }
+              
+             print "<br><br> LINE $i: $line ";
+             if(trim($line)==""){ continue; }                        
+             $result = array();
+             if(preg_match($regex,$line,$result)){
+                 print "<br>result=";
+                 print_r($result);
+                 print "<br>";
+                 print_r($result);
+                 $shipping_address .= " ".$result['addr'];
+             }
+             
+             
+        }
+            
+        print "<br><br> SHIPPING ADDRESS: $shipping_address <br>";
+        //return $shipping_address;
+        $no_spaces = str_replace(" ", "", $shipping_address);
+        $no_spaces_db = $db->safe(trim($no_spaces));
+        print "<br> NO SPACE: $no_spaces <br>";
+        $check = " replace(shipping_address ,' ','') = $no_spaces_db ";
+        print "<br> CHECK : $check <br>";
+        $query = " select * from it_shipping_address where $check "; 
+        print "<br> QUERY: $query <br>";
+      
+        $sobj = $db->fetchObject($query);
+         $inimasterdealerid = "";
+         
+         if(isset($sobj)){
+            $db->closeConnection();
+            $inimasterdealerid = $sobj->master_dealer_id;
+            print "<br>MASTER Dealer ID : $inimasterdealerid </br>";
+            return $shipping_address."::".$inimasterdealerid;
+        }else{
+            $db->closeConnection();
+//            print "<br>CALL NEXT 15_2 BU PARSER <br>";
+//            $clsname = "cls_15_1_buParser";
+//            if(file_exists("buParsers/".$clsname.".php")){
+//                   
+//                    require_once "buParsers/$clsname.php";
+//                    $parser = new $clsname();
+//                    $response = $parser->process($file_text);
+//                    return $response;
+//            }else{
+                return "NotFound::-1";
+            //}
+            
+        }
+    }
+}
+

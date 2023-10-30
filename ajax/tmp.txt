@@ -1,0 +1,754 @@
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+     where replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4%' OR sh.customer_code LIKE '%4%' OR sh.dc_name LIKE '%4%' OR sh.dc_address LIKE '%4%' OR sh.dc_city LIKE '%4%' OR sh.dc_state LIKE '%4%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%472%' OR sh.customer_code LIKE '%472%' OR sh.dc_name LIKE '%472%' OR sh.dc_address LIKE '%472%' OR sh.dc_city LIKE '%472%' OR sh.dc_state LIKE '%472%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4727%' OR sh.customer_code LIKE '%4727%' OR sh.dc_name LIKE '%4727%' OR sh.dc_address LIKE '%4727%' OR sh.dc_city LIKE '%4727%' OR sh.dc_state LIKE '%4727%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+     where replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4%' OR sh.customer_code LIKE '%4%' OR sh.dc_name LIKE '%4%' OR sh.dc_address LIKE '%4%' OR sh.dc_city LIKE '%4%' OR sh.dc_state LIKE '%4%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%472%' OR sh.customer_code LIKE '%472%' OR sh.dc_name LIKE '%472%' OR sh.dc_address LIKE '%472%' OR sh.dc_city LIKE '%472%' OR sh.dc_state LIKE '%472%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4727%' OR sh.customer_code LIKE '%4727%' OR sh.dc_name LIKE '%4727%' OR sh.dc_address LIKE '%4727%' OR sh.dc_city LIKE '%4727%' OR sh.dc_state LIKE '%4727%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+     where replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4%' OR sh.customer_code LIKE '%4%' OR sh.dc_name LIKE '%4%' OR sh.dc_address LIKE '%4%' OR sh.dc_city LIKE '%4%' OR sh.dc_state LIKE '%4%' OR bu.code LIKE '%4%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%472%' OR sh.customer_code LIKE '%472%' OR sh.dc_name LIKE '%472%' OR sh.dc_address LIKE '%472%' OR sh.dc_city LIKE '%472%' OR sh.dc_state LIKE '%472%' OR bu.code LIKE '%472%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+
+
+
+ location query :  select SQL_CALC_FOUND_ROWS sh.id, m.name, sh.customer_code, sh.dc_name, sh.dc_address,sh.dc_city, sh.dc_state, (select r1.name from it_regions r1,it_regions r2 where r1.id=r2.zone_id and replace(UPPER(r2.name),' ','') = replace(UPPER(sh.dc_state),' ','')) as Zone, bu.code as 'store_code', sh.createtime from it_master_dealers m, it_shipping_address sh, it_business_unit bu  
+    WHERE (m.name LIKE '%4727%' OR sh.customer_code LIKE '%4727%' OR sh.dc_name LIKE '%4727%' OR sh.dc_address LIKE '%4727%' OR sh.dc_city LIKE '%4727%' OR sh.dc_state LIKE '%4727%' OR bu.code LIKE '%4727%' ) and replace(bu.bu_identifier,' ','') = replace(sh.shipping_address ,' ','') and sh.master_dealer_id = m.id and m.id = 7
+     ORDER BY  name
+			 	asc
+     LIMIT 0, 10  
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  category
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  value
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  product_category_id
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  master_item_description
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%6%' OR drd.master_item_description LIKE '%6%' OR drd.quantity LIKE '%6%' OR drd.tot_amt_including_gst LIKE '%6%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%68%' OR drd.master_item_description LIKE '%68%' OR drd.quantity LIKE '%68%' OR drd.tot_amt_including_gst LIKE '%68%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%6%' OR drd.master_item_description LIKE '%6%' OR drd.quantity LIKE '%6%' OR drd.tot_amt_including_gst LIKE '%6%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%v%' OR drd.master_item_description LIKE '%v%' OR drd.quantity LIKE '%v%' OR drd.tot_amt_including_gst LIKE '%v%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%vlc%' OR drd.master_item_description LIKE '%vlc%' OR drd.quantity LIKE '%vlc%' OR drd.tot_amt_including_gst LIKE '%vlc%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%vlcc%' OR drd.master_item_description LIKE '%vlcc%' OR drd.quantity LIKE '%vlcc%' OR drd.tot_amt_including_gst LIKE '%vlcc%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%vl%' OR drd.master_item_description LIKE '%vl%' OR drd.quantity LIKE '%vl%' OR drd.tot_amt_including_gst LIKE '%vl%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%v%' OR drd.master_item_description LIKE '%v%' OR drd.quantity LIKE '%v%' OR drd.tot_amt_including_gst LIKE '%v%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%s%' OR drd.master_item_description LIKE '%s%' OR drd.quantity LIKE '%s%' OR drd.tot_amt_including_gst LIKE '%s%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%ski%' OR drd.master_item_description LIKE '%ski%' OR drd.quantity LIKE '%ski%' OR drd.tot_amt_including_gst LIKE '%ski%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%skin%' OR drd.master_item_description LIKE '%skin%' OR drd.quantity LIKE '%skin%' OR drd.tot_amt_including_gst LIKE '%skin%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%ski%' OR drd.master_item_description LIKE '%ski%' OR drd.quantity LIKE '%ski%' OR drd.tot_amt_including_gst LIKE '%ski%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category_id LIKE '%s%' OR drd.master_item_description LIKE '%s%' OR drd.quantity LIKE '%s%' OR drd.tot_amt_including_gst LIKE '%s%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%s%' OR drd.master_item_description LIKE '%s%' OR drd.quantity LIKE '%s%' OR drd.tot_amt_including_gst LIKE '%s%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%sj%' OR drd.master_item_description LIKE '%sj%' OR drd.quantity LIKE '%sj%' OR drd.tot_amt_including_gst LIKE '%sj%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%sjin%' OR drd.master_item_description LIKE '%sjin%' OR drd.quantity LIKE '%sjin%' OR drd.tot_amt_including_gst LIKE '%sjin%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%sji%' OR drd.master_item_description LIKE '%sji%' OR drd.quantity LIKE '%sji%' OR drd.tot_amt_including_gst LIKE '%sji%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%sj%' OR drd.master_item_description LIKE '%sj%' OR drd.quantity LIKE '%sj%' OR drd.tot_amt_including_gst LIKE '%sj%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%s%' OR drd.master_item_description LIKE '%s%' OR drd.quantity LIKE '%s%' OR drd.tot_amt_including_gst LIKE '%s%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd WHERE (drd.product_category LIKE '%ski%' OR drd.master_item_description LIKE '%ski%' OR drd.quantity LIKE '%ski%' OR drd.tot_amt_including_gst LIKE '%ski%' ) and drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=4 group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 ORDER BY  quantity
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	asc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 ORDER BY  tot_amt_including_gst
+			 	desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 10, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 20, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 30, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 40, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 110, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=20 group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.zone='Central' and drd.state='Andhra Pradesh' and drd.city='ANANTAPUR' group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.zone='West' and drd.state='Maharashtra' and drd.city='Aurangabad' group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+
+
+Dashboars query: 
+	select SQL_CALC_FOUND_ROWS drd.product_category,drd.master_item_description, sum(drd.quantity) as quantity, sum(drd.tot_amt_including_gst) as tot_amt_including_gst from it_daily_report_data drd  where drd.po_date >= '2020-06-01' and drd.po_date <= '2020-06-20' and drd.master_item_description !=''  and drd.master_dealer_id=3 and drd.zone='South' and drd.state='Tamilnadu' and drd.city='Chennai' and drd.dc_address=574 group by drd.master_item_description
+	 
+	 order by sum(drd.tot_amt_including_gst) desc
+	 LIMIT 0, 10
+

@@ -1,0 +1,136 @@
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details where status = 0 and DATE(datetime) = CURDATE()
+	WHERE (po_filenames LIKE '%d%' OR from_email LIKE '%d%' OR datetime LIKE '%d%' )
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	 where status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	WHERE (po_filenames LIKE '%d%' OR from_email LIKE '%d%' OR datetime LIKE '%d%' ) and status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	WHERE (po_filenames LIKE '%de%' OR from_email LIKE '%de%' OR datetime LIKE '%de%' ) and status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	WHERE (po_filenames LIKE '%dem%' OR from_email LIKE '%dem%' OR datetime LIKE '%dem%' ) and status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	WHERE (po_filenames LIKE '%demo%' OR from_email LIKE '%demo%' OR datetime LIKE '%demo%' ) and status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS * from it_po_details
+	WHERE (po_filenames LIKE '%demo1%' OR from_email LIKE '%demo1%' OR datetime LIKE '%demo1%' ) and status = 0 and DATE(datetime) = CURDATE()
+        
+	 LIMIT 0, 10
+

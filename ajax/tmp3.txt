@@ -1,0 +1,96 @@
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	 where  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%1%' OR c.name LIKE '%1%' OR p.shortname LIKE '%1%' OR p.desc1 LIKE '%1%' OR p.desc2 LIKE '%1%' OR p.thickness LIKE '%1%' OR pr.price LIKE '%1%' OR pr.applicable_date LIKE '%1%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%123%' OR c.name LIKE '%123%' OR p.shortname LIKE '%123%' OR p.desc1 LIKE '%123%' OR p.desc2 LIKE '%123%' OR p.thickness LIKE '%123%' OR pr.price LIKE '%123%' OR pr.applicable_date LIKE '%123%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%1235%' OR c.name LIKE '%1235%' OR p.shortname LIKE '%1235%' OR p.desc1 LIKE '%1235%' OR p.desc2 LIKE '%1235%' OR p.thickness LIKE '%1235%' OR pr.price LIKE '%1235%' OR pr.applicable_date LIKE '%1235%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%123%' OR c.name LIKE '%123%' OR p.shortname LIKE '%123%' OR p.desc1 LIKE '%123%' OR p.desc2 LIKE '%123%' OR p.thickness LIKE '%123%' OR pr.price LIKE '%123%' OR pr.applicable_date LIKE '%123%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%1%' OR c.name LIKE '%1%' OR p.shortname LIKE '%1%' OR p.desc1 LIKE '%1%' OR p.desc2 LIKE '%1%' OR p.thickness LIKE '%1%' OR pr.price LIKE '%1%' OR pr.applicable_date LIKE '%1%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	 where  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%5%' OR c.name LIKE '%5%' OR p.shortname LIKE '%5%' OR p.desc1 LIKE '%5%' OR p.desc2 LIKE '%5%' OR p.thickness LIKE '%5%' OR pr.price LIKE '%5%' OR pr.applicable_date LIKE '%5%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%55%' OR c.name LIKE '%55%' OR p.shortname LIKE '%55%' OR p.desc1 LIKE '%55%' OR p.desc2 LIKE '%55%' OR p.thickness LIKE '%55%' OR pr.price LIKE '%55%' OR pr.applicable_date LIKE '%55%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%550%' OR c.name LIKE '%550%' OR p.shortname LIKE '%550%' OR p.desc1 LIKE '%550%' OR p.desc2 LIKE '%550%' OR p.thickness LIKE '%550%' OR pr.price LIKE '%550%' OR pr.applicable_date LIKE '%550%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%5504%' OR c.name LIKE '%5504%' OR p.shortname LIKE '%5504%' OR p.desc1 LIKE '%5504%' OR p.desc2 LIKE '%5504%' OR p.thickness LIKE '%5504%' OR pr.price LIKE '%5504%' OR pr.applicable_date LIKE '%5504%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
+
+MSL query: 
+	select SQL_CALC_FOUND_ROWS p.id , c.name as category, p.shortname as itemname, p.desc1, p.desc2, p.thickness, p.spec_id as spec, pr.price, pr.applicable_date, p.active, pr.status   
+	from it_products p , it_categories c, it_product_price pr  
+	WHERE (p.id LIKE '%55040%' OR c.name LIKE '%55040%' OR p.shortname LIKE '%55040%' OR p.desc1 LIKE '%55040%' OR p.desc2 LIKE '%55040%' OR p.thickness LIKE '%55040%' OR pr.price LIKE '%55040%' OR pr.applicable_date LIKE '%55040%' ) and  p.ctg_id = c.id and pr.product_id = p.id and pr.applicable_date = '2019-07-12 18:50:00' and p.active = 1 and pr.crid in (1,0)  and pr.status = 1   
+	 order by p.id 
+	 LIMIT 0, 50
+
